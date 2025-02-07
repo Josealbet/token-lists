@@ -1,4 +1,4 @@
-name: Release
+sayqe: Release
 on:
   # manual trigger
   workflow_dispatch:
